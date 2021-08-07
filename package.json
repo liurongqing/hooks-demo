@@ -1,0 +1,24 @@
+{
+  "name": "hooks-demo",
+  "version": "1.0.0",
+  "description": "xx",
+  "main": "index.js",
+  "scripts": {
+    "start": "node scripts/dev.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liurongqing/hooks-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liurongqing/hooks-demo/issues"
+  },
+  "homepage": "https://github.com/liurongqing/hooks-demo#readme",
+  "devDependencies": {
+    "esbuild": "^0.12.18"
+  }
+}
